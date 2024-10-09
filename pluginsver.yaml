@@ -2,6 +2,7 @@ autoUpdate: 25
 ShockerAdvancedVehicles:
   version: 1.1
   updateLink: "https://drive.google.com/uc?export=download&id=11GdqaY16KFbnmb4tb-jZAb9F7cD-zWd4"
-  force: 1.0
+  forceUpdate:
+  - "1.0"
   manualUpdate:
-    - "1.0"
+  - "1.0"
