@@ -2,9 +2,9 @@ autoUpdate: 25
 ShockerAdvancedVehicles:
   version: 1.1
   updateLink: "https://drive.google.com/uc?export=download&id=11GdqaY16KFbnmb4tb-jZAb9F7cD-zWd4"
-  forceUpdate:
+  forceUpdate: #Versions that will be forced to be upgraded to the latest version.
   - "1.0"
-  manualUpdate:
+  manualUpdate: #Versions that require manual updates.
   - "1.0"
-  silentUpdate:
+  silentUpdate: #Versions that will not display a message when forced to update.
   - "1.0"
