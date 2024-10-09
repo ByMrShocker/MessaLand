@@ -6,3 +6,5 @@ ShockerAdvancedVehicles:
   - "1.0"
   manualUpdate:
   - "1.0"
+  silentUpdate:
+  - "1.0"
