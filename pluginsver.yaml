@@ -1,3 +1,5 @@
+#forceUpdate & manualUpdate are checking installed version. silentUpdate checking from this cfg.
+
 autoUpdate: 25
 ShockerAdvancedVehicles:
   version: 1.1
