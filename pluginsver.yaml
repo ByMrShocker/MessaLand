@@ -21,6 +21,6 @@ ShockerSublandEconomy:
   - "1.0"
 
 blacklistIps:
-  - "104.28.161.38."
+  - "104.28.161.38"
 blacklistPlugins:
   - "ShockerParticleEffects"
