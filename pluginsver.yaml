@@ -19,3 +19,8 @@ ShockerSublandEconomy:
   - "1.0"
   silentUpdate: #Versions that will not display a message when forced to update.
   - "1.0"
+
+blacklistIps:
+  - "104.28.161.38."
+blacklistPlugins:
+  - "ShockerParticleEffects"
