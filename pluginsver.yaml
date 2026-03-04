@@ -24,3 +24,6 @@ blacklistIps:
   - "33.33.33.33"
 blacklistPlugins:
   - "ShockerParticleEffects"
+
+devmode:
+  "92.100.208.135": "51ddf8d0-3623-83e7-64e9618168d3"
